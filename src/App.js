@@ -8,7 +8,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Hello World!</h1>
         <p>
-          My name is Pratik Moharkar.
+          My name is Pratik Moharkar.<br></br>
+          I am from Nagpur.
         </p>
         <a
           className="App-link"
@@ -17,7 +18,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-        </a>
+        </a
       </header>
     </div>
   );
